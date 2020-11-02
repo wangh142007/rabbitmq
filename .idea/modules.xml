@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Learn-RabbitMq.iml" filepath="$PROJECT_DIR$/.idea/Learn-RabbitMq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-parent/rabbit-api/rabbit-api.iml" filepath="$PROJECT_DIR$/rabbitmq-parent/rabbit-api/rabbit-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-parent/rabbit-common/rabbit-common.iml" filepath="$PROJECT_DIR$/rabbitmq-parent/rabbit-common/rabbit-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-consumer/rabbit-consumer.iml" filepath="$PROJECT_DIR$/rabbitmq-consumer/rabbit-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-parent/rabbit-core-producer/rabbit-core-producer.iml" filepath="$PROJECT_DIR$/rabbitmq-parent/rabbit-core-producer/rabbit-core-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-parent/rabbit-parent.iml" filepath="$PROJECT_DIR$/rabbitmq-parent/rabbit-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-parent/rabbit-task/rabbit-task.iml" filepath="$PROJECT_DIR$/rabbitmq-parent/rabbit-task/rabbit-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-api/rabbitmq-api.iml" filepath="$PROJECT_DIR$/rabbitmq-api/rabbitmq-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-consumer/rabbitmq-consumer.iml" filepath="$PROJECT_DIR$/rabbitmq-consumer/rabbitmq-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-parent/rabbitmq-parent.iml" filepath="$PROJECT_DIR$/rabbitmq-parent/rabbitmq-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-producer/rabbitmq-producer.iml" filepath="$PROJECT_DIR$/rabbitmq-producer/rabbitmq-producer.iml" />
+    </modules>
+  </component>
+</project>
